@@ -17,5 +17,5 @@
     print(password)
 ```
 6. Experience: `No`;
-7. Edication: [Geekbrains](https://geekbrains.ru), [Youtube](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw), [some of publics from Vkontakte](https://vk.com/codeupnumber1);
+7. Edication: [Geekbrains](https://geekbrains.ru), [Youtube](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw), [some of groups from Vkontakte](https://vk.com/codeupnumber1);
 8. English: `No`.

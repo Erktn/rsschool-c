@@ -1,10 +1,10 @@
-# rsschool-cv
-1. Name: Basang Boktaev;
-2. Email: b.bakty@gmail.com; Telephone number: +79618437939; [Vkontakte](https://vk.com/the_boktan);
+# [rsschool-cv](https://erktn.github.io/rsschool-cv/)
+1. Name: `Basang Boktaev`;
+2. Email: b.bakty@gmail.com; Telephone number: `+79618437939`; [Vkontakte](https://vk.com/the_boktan);
 3. Goals: My goal is to expand my programming knowledge. I want to better understand the construction of sites. It is important for me to acquire new skills and experience in order to get a job;
 4. Summary: I have little experience with **HTML** and **CSS**. Also learning how to program using **Python 3**;
 5. Example using Python:
-```
+```python
     import random
     from string import digits
     from string import punctuation
@@ -16,6 +16,6 @@
     
     print(password)
 ```
-6. I haven't any experience;
+6. Experience: `No`;
 7. Edication: [Geekbrains](https://geekbrains.ru), [Youtube](https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw), [some of publics from Vkontakte](https://vk.com/codeupnumber1);
-8. English: No.
+8. English: `No`.
